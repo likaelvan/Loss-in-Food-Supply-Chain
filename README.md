@@ -6,10 +6,10 @@ This project hopes to tabulate and model how much Food Loss and Waste (FLW) is p
 
 This project is developed by: 
 
-Prinz Romeo Gan  (Section: WFY)
-Isaiah Nikolo Gonzales (Section: WFY)
-Tim Kristian Llanto (Section: WFY)
-Gorge Lichael Vann N. Vedasto (Section: WFY)
+*Prinz Romeo Gan  (Section: WFY)
+*Isaiah Nikolo Gonzales (Section: WFY)
+*Tim Kristian Llanto (Section: WFY)
+*Gorge Lichael Vann N. Vedasto (Section: WFY)
 
 # Background
 
